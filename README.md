@@ -2,8 +2,6 @@
 
 My Todos List
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/de5441e4-7da5-4549-9686-4c124349b2a4/deploy-status)](https://app.netlify.com/sites/todo-list-by-loveena/deploys)
-
 # Description
 This is a basic react-app in which you can add todos and delete them once completed.
 There are two components :
